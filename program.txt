@@ -2,3 +2,8 @@ Main()
 {
 	printf("hello world");
 }
+
+method()
+{
+	printf("hello hello");
+}
