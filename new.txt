@@ -1,0 +1,9 @@
+Main()
+{
+	printf("hello world");
+}
+
+method()
+{
+	cout << "hello hello" << endl;
+}
