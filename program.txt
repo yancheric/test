@@ -1,0 +1,4 @@
+Main()
+{
+	printf("hello world");
+}
